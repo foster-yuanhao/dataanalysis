@@ -4,6 +4,7 @@ Spyder Editor
 
 This is a temporary script file.
 """
+import numpy
 #declear the matrix for data
 array=[1100,1225,1359,1600,1750,1482,1700,\
         900,1211,1203,1023,900,1322,\
@@ -19,4 +20,16 @@ print(max(array))
 #for max value function
 
     
-#ss
+
+
+ 
+ 
+x = numpy.var(array) 
+print(x) 
+#for Variance in python
+
+
+
+
+
+
