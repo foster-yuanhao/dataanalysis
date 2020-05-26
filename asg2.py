@@ -19,11 +19,6 @@ print(min(array))
 print(max(array))
 #for max value function
 
-    
-
-
- 
- 
 x = numpy.var(array) 
 print(x) 
 #for Variance in python
@@ -31,7 +26,3 @@ print(x)
 x = numpy.std(array)
 print(x) 
 #for Standard deviation in python 
-
-
-
-
