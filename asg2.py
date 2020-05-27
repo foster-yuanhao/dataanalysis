@@ -28,14 +28,14 @@ print(x)
 #for Standard deviation in python 
 
     
-    x = numpy.mean(array)
-    print(x)
+x = numpy.mean(array)
+print(x)
     
 
 
 
-    x = numpy.median(array)
-    print(x)
+x = numpy.median(array)
+print(x)
     
 
 
@@ -44,8 +44,8 @@ import scipy
 from scipy import stats
 
     
-    x = stats.mode(array)
-    print(x)
+x = stats.mode(array)
+print(x)
     
 
 
